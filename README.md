@@ -35,7 +35,7 @@ La Sección Disciplinar se compone de **cuatro áreas**, **catorce subáreas** y
 | **4. Gestión de Proyectos de Software**   | 4.1 Gestión de tiempos, costos, recursos humanos y de riesgo                                         |                 8 |
 |                                           | 4.2 Calidad de software                                                                              |                10 |
 |                                           | 4.3 Metodologías de desarrollo                                                                       |                12 |
-|                                           | **Total de reactivos**                                                                                   |           **143** |
+|                                            **Total de reactivos**               |                                                                    |           **143** |
 
 ---
 
