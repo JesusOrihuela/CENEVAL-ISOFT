@@ -161,4 +161,4 @@ Implica la **estimación y control de tiempos, recursos humanos y costos**, util
 
 1. ✅ ISO. (2011). *ISO/IEC 25010:2011, First Edition: Systems and software engineering. Systems and software Quality Requirements and Evaluation (SQuaRE). System and software quality models*. ANSI.
 2. ✅ ISO/IEC/IEEE (2018). *29148:2018(E). Systems and software engineering — Life cycle processes — Requirements engineering*.
-3. ❌ Project Management Institute (2018). *PMBOK: Project management body of knowledge* (6a ed.). Autor.
+3. ✅ Project Management Institute (2018). *PMBOK: Project management body of knowledge* (6a ed.). Autor.
