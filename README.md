@@ -5,11 +5,11 @@
 Este instrumento consta de **dos secciones**, **seis áreas** y **203 reactivos**.
 Una sección evalúa conocimientos y habilidades específicos de la profesión; la otra, habilidades de **lenguaje y comunicación en español**.
 
-| Sección                                                                   | Áreas                                                                                                                                                                                        | Núm. de reactivos |
-| ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------: |
-| **Disciplinar específica de la profesión**                                | Área 1. Análisis de Sistemas de Software<br>Área 2. Diseño de Sistemas de Software<br>Área 3. Desarrollo de Sistemas de Software<br>Área 4. Gestión de Proyectos de Software |           **143** |
-| **Transversal de Lenguaje y Comunicación, común a todas las profesiones** | Área 1. Comprensión lectora<br>Área 2. Redacción indirecta                                                                                                                           |            **60** |
-| **Total**                                                                 |                                                                                                                                                                                              |           **203** |
+| Sección                                                                          | Áreas                                                                                                                                                                                          | Núm. de reactivos |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -----------------: |
+| **Disciplinar específica de la profesión**                                | Área 1. Análisis de Sistemas de Software`<br>`Área 2. Diseño de Sistemas de Software`<br>`Área 3. Desarrollo de Sistemas de Software`<br>`Área 4. Gestión de Proyectos de Software |      **143** |
+| **Transversal de Lenguaje y Comunicación, común a todas las profesiones** | Área 1. Comprensión lectora`<br>`Área 2. Redacción indirecta                                                                                                                              |       **60** |
+| **Total**                                                                   |                                                                                                                                                                                                 |      **203** |
 
 > **Nota.** El examen incluye **15%** de reactivos piloto, los cuales **no** se considerarán para la calificación.
 
@@ -19,23 +19,23 @@ Una sección evalúa conocimientos y habilidades específicos de la profesión; 
 
 La Sección Disciplinar se compone de **cuatro áreas**, **catorce subáreas** y **143 reactivos**.
 
-| Áreas                                     | Subáreas                                                                                                 | Núm. de reactivos |
-| ----------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------: |
-| **1. Análisis de Sistemas de Software**   | 1.1  Tipos de requerimientos                                                                          |                12 |
-|                                           | 1.2 Técnicas y herramientas para la obtención, análisis, priorización y validación de requerimientos |                 9 |
-|                                           | 1.3 Técnicas y herramientas de documentación de requerimientos                                       |                10 |
-| **2. Diseño de Sistemas de Software**     | 2.1 Diseño arquitectónico de software                                                                |                16 |
-|                                           | 2.2 Diseño de módulos, componentes y de datos de software                                            |                10 |
-|                                           | 2.3 Diseño de interfaces                                                                             |                 7 |
-| **3. Desarrollo de Sistemas de Software** | 3.1 Lenguajes de desarrollo de software                                                              |                10 |
-|                                           | 3.2 Paradigmas de programación                                                                       |                10 |
-|                                           | 3.3 Entornos de desarrollo                                                                           |                10 |
-|                                           | 3.4 Gestión de datos                                                                                 |                 9 |
-|                                           | 3.5 Plataformas de desarrollo                                                                        |                10 |
-| **4. Gestión de Proyectos de Software**   | 4.1 Gestión de tiempos, costos, recursos humanos y de riesgo                                         |                 8 |
-|                                           | 4.2 Calidad de software                                                                              |                10 |
-|                                           | 4.3 Metodologías de desarrollo                                                                       |                12 |
-|                                            **Total de reactivos**               |                                                                    |           **143** |
+| Áreas                                          | Subáreas                                                                                                 | Núm. de reactivos |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -----------------: |
+| **1. Análisis de Sistemas de Software**  | 1.1  Tipos de requerimientos                                                                              |                 12 |
+|                                                 | 1.2 Técnicas y herramientas para la obtención, análisis, priorización y validación de requerimientos |                  9 |
+|                                                 | 1.3 Técnicas y herramientas de documentación de requerimientos                                          |                 10 |
+| **2. Diseño de Sistemas de Software**    | 2.1 Diseño arquitectónico de software                                                                   |                 16 |
+|                                                 | 2.2 Diseño de módulos, componentes y de datos de software                                               |                 10 |
+|                                                 | 2.3 Diseño de interfaces                                                                                 |                  7 |
+| **3. Desarrollo de Sistemas de Software** | 3.1 Lenguajes de desarrollo de software                                                                   |                 10 |
+|                                                 | 3.2 Paradigmas de programación                                                                           |                 10 |
+|                                                 | 3.3 Entornos de desarrollo                                                                                |                 10 |
+|                                                 | 3.4 Gestión de datos                                                                                     |                  9 |
+|                                                 | 3.5 Plataformas de desarrollo                                                                             |                 10 |
+| **4. Gestión de Proyectos de Software**  | 4.1 Gestión de tiempos, costos, recursos humanos y de riesgo                                             |                  8 |
+|                                                 | 4.2 Calidad de software                                                                                   |                 10 |
+|                                                 | 4.3 Metodologías de desarrollo                                                                           |                 12 |
+| **Total de reactivos**                    |                                                                                                           |      **143** |
 
 ---
 
@@ -104,7 +104,7 @@ Implica la **estimación y control de tiempos, recursos humanos y costos**, util
 17. ✅ Pernice, K. (2016). *UX prototypes: Low fidelity vs. high fidelity*. Nielsen Norman Group.
 18. ✅ Suárez, J., & Gutiérrez, L. E. (2016). *Tipificación de dominios de requerimientos para la aplicación de patrones arquitectónicos*. *Información Tecnológica*, 27(4), 193–202.
 19. ✅ Sweeting, C. (2017). *How utterances & slot samples affect intent-matching in Alexa skills*. Voiceflow, Medium.
-20. ❌ Ullman, J., Alatorre, E., & Widom, J. (1999). *Introducción a los sistemas de bases de datos*. Prentice Hall.
+20. ✅ Ullman, J., Alatorre, E., & Widom, J. (1999). *Introducción a los sistemas de bases de datos*. Prentice Hall.
 
 ---
 
@@ -162,3 +162,57 @@ Implica la **estimación y control de tiempos, recursos humanos y costos**, util
 1. ✅ ISO. (2011). *ISO/IEC 25010:2011, First Edition: Systems and software engineering. Systems and software Quality Requirements and Evaluation (SQuaRE). System and software quality models*. ANSI.
 2. ✅ ISO/IEC/IEEE (2018). *29148:2018(E). Systems and software engineering — Life cycle processes — Requirements engineering*.
 3. ✅ Project Management Institute (2018). *PMBOK: Project management body of knowledge* (6a ed.). Autor.
+
+
+## Recomendaciones
+
+Un método de estudio útil para preparar el examen EGEL es la utilización de Inteligencia Artificial para la generación de cuestionarios de prueba. Se recomienda el uso de NotebookLM con su función de generación de **Cuestionario**.
+
+### Pasos
+1. Abre **NotebookLM** → New Notebook.
+2. Add **sources** → Subir los documentos de la bibliografía sugerida (archivos PDF, PPTX, DOCX).
+3. En Studio, identificar la opción **Cuestionario** y seleccionar el **lápiz** para personalizar el cuestionario.
+4. Se recomienda seleccionar **Más Preguntas** y **Dificultad Difícil**
+5. Utiliza el **Prompt Recomendado** o uno similar para obtener un cuestionario con preguntas similares a las encontradas en el examen EGEL.
+
+### Prompt Recomendato
+
+**Actúa como diseñador experto de exámenes de nivel profesional.** Recibirás múltiples adjuntos (documentos, presentaciones, apuntes, estándares, guías, etc.).
+
+**Objetivo:** elaborar un **cuestionario integral de opción múltiple** que cubra exhaustivamente todo el contenido explícito e implícito de los adjuntos, incluyendo todo el glosario, subtemas, casos límites, excepciones y mejores prácticas. **No utilices conocimiento externo** que no esté sustentado en los adjuntos.
+
+**Alcance temático (mínimo a cubrir):**
+1. **Análisis de Sistemas de Software**
+   * **1.1.** Tipos de requerimientos
+   * **1.2.** Técnicas y herramientas para la obtención, análisis, priorización y validación de requerimientos
+   * **1.3.** Técnicas y herramientas de documentación de requerimientos
+
+2. **Diseño de Sistemas de Software**
+   * **2.1.** Diseño arquitectónico de software
+   * **2.2.** Diseño de módulos, componentes y de datos de software
+   * **2.3.** Diseño de interfaces
+
+3. **Desarrollo de Sistemas de Software**
+   * **3.1.** Lenguajes de desarrollo de software
+   * **3.2.** Paradigmas de programación
+   * **3.3.** Entornos de desarrollo
+   * **3.4.** Gestión de datos
+   * **3.5.** Plataformas de desarrollo
+
+4. **Gestión de Proyectos de Software**
+   * **4.1.** Gestión de tiempos, costos, recursos humanos y de riesgo
+   * **4.2.** Calidad de software
+   * **4.3.** Metodologías de desarrollo
+
+**Lineamientos de construcción:**
+* **Cobertura total:** incluye todos los términos del glosario en contextos aplicados (no definiciones literales). Si un concepto aparece de forma implícita (p. ej., en ejemplos, tablas o figuras), inclúyelo.
+* Integra **cruces entre temas** (p. ej., decisiones de arquitectura que impactan gestión de riesgos; priorización de requerimientos con restricciones de costos/tiempos; elección de paradigma según plataforma y gestión de datos).
+* **Dificultad y cognición:** distribuye aproximadamente **20% básico**, **50% intermedio**, **30% avanzado**, mapeando tácitamente a recordar/entender, aplicar/analizar y evaluar/crear según corresponda al material.
+* **Validez de contenido:** cada reactivo debe estar anclado en los adjuntos. Evita ambigüedades, opiniones o información no sustentada.
+* **Estilo de ítems (caso/práctica):** las preguntas no deben evaluar memorización de definiciones. Deben presentar un caso, problema, fragmento de código/pseudocódigo, artefacto de requisitos, diagrama, tablero, métrica o escenario realista y pedir una decisión o inferencia.
+* **Única correcta:** solo una opción debe ser completamente correcta; las demás son distractores plausibles que reflejen errores típicos de interpretación o aplicación observables en el material.
+* **Distractores de calidad:**
+  * Evita “Todas las anteriores” / “Ninguna de las anteriores”.
+  * Evita pistas gramaticales o longitudes desbalanceadas.
+  * No repitas condiciones entre incisos; colócalas en el enunciado.
+  * Usa cifras, valores y términos verosímiles extraídos del contenido.
