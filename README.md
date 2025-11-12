@@ -7,8 +7,8 @@ Una sección evalúa conocimientos y habilidades específicos de la profesión; 
 
 | Sección                                                                          | Áreas                                                                                                                                                                                          | Núm. de reactivos |
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -----------------: |
-| **Disciplinar específica de la profesión**                                | Área 1. Análisis de Sistemas de Software`<br>`Área 2. Diseño de Sistemas de Software`<br>`Área 3. Desarrollo de Sistemas de Software`<br>`Área 4. Gestión de Proyectos de Software |      **143** |
-| **Transversal de Lenguaje y Comunicación, común a todas las profesiones** | Área 1. Comprensión lectora`<br>`Área 2. Redacción indirecta                                                                                                                              |       **60** |
+| **Disciplinar específica de la profesión**                                | Área 1. Análisis de Sistemas de Software<br>Área 2. Diseño de Sistemas de Software<br>Área 3. Desarrollo de Sistemas de Software<br>Área 4. Gestión de Proyectos de Software |      **143** |
+| **Transversal de Lenguaje y Comunicación, común a todas las profesiones** | Área 1. Comprensión lectora<br>Área 2. Redacción indirecta                                                                                                                              |       **60** |
 | **Total**                                                                   |                                                                                                                                                                                                 |      **203** |
 
 > **Nota.** El examen incluye **15%** de reactivos piloto, los cuales **no** se considerarán para la calificación.
@@ -57,12 +57,13 @@ Comprende las etapas de **implementación, pruebas y despliegue** del ciclo de d
 
 Implica la **estimación y control de tiempos, recursos humanos y costos**, utilizando **métricas, métodos o metodologías** para la búsqueda de un equilibrio de los recursos de una manera óptima, garantizando la **calidad** y disminuyendo los **riesgos del proyecto**.
 
+---
+
 ## Bibliografía sugerida incluida en el Repositorio
 
 > **Nota.** Favor de actualizar la lista de recursos en README.md en caso de actualizar o agregar recursos a las carpetas.
 
 ### Área 1. Análisis de sistemas de software
-
 1. ❌ Blokdyk, G. (2018). *ISO IEC 9126* (3a ed.). 5StaCooks.
 2. ✅ Booch, G., Rumbaugh, J., & Jacobson, I. (1998). *The unified modeling language user guide* (2nd ed.). Addison-Wesley Object Technology Series.
 3. ✅ Cubero, E. (s.f.). *Técnicas de estimación*. Blog de Proyectum.
@@ -81,10 +82,7 @@ Implica la **estimación y control de tiempos, recursos humanos y costos**, util
 16. ✅ Wiegers, K., & Beatty, J. (2013). *Software requirements* (3a ed.). Microsoft Press.
 17. ✅ Wong, S. (2017). *Análisis y requerimientos de software*. Universidad Continental.
 
----
-
 ### Área 2. Diseño de sistemas de software
-
 1. ❌ Blokdyk, G. (2018). *Architecture tradeoff analysis method: A clear and concise reference*.
 2. ✅ Brown, S. (2014). *Software architecture for developers*. Leanpub.
 3. ✅ Buxton, B. (2007). *Sketching user experiences: Getting the design right and the right design*. Morgan-Kaufmann.
@@ -106,10 +104,7 @@ Implica la **estimación y control de tiempos, recursos humanos y costos**, util
 19. ✅ Sweeting, C. (2017). *How utterances & slot samples affect intent-matching in Alexa skills*. Voiceflow, Medium.
 20. ✅ Ullman, J., Alatorre, E., & Widom, J. (1999). *Introducción a los sistemas de bases de datos*. Prentice Hall.
 
----
-
 ### Área 3. Desarrollo de sistemas de software
-
 1. ✅ Beaulieu, A. (2020). *Learning SQL: Generate, manipulate and retrieve Data*. O’Reilly.
 2. ✅ Burets, A. (2019). *PHP vs Javascript: A short comparison*. Scand.
 3. ✅ Date, C. J. (2001). *Introducción a los sistemas de bases de datos*. Pearson Educación; Prentice Hall.
@@ -131,10 +126,7 @@ Implica la **estimación y control de tiempos, recursos humanos y costos**, util
 19. ✅ Stackshare (2022). *C++ vs. JavaScript vs. PHP*.
 20. ✅ Ureña, C. (2012). *Lenguajes de programación*. Universidad de Granada.
 
----
-
 ### Área 4. Gestión de proyectos de software
-
 1. ✅ Arciniega, F. (2017). *Normas y estándares de calidad para el desarrollo de software*.
 2. ✅ Bass, L., Clements, P., & Kazman, R. (2013). *Software architecture in practice* (3a ed.). Addison-Wesley.
 3. ✅ Boar, B. (2001). *The art of strategic planning for information technology*. John Wiley & Sons.
@@ -155,14 +147,12 @@ Implica la **estimación y control de tiempos, recursos humanos y costos**, util
 18. ✅ Schwaber, K., & Sutherland, J. (2020). *La guía de Scrum: La guía definitiva de Scrum, las reglas del juego*.
 19. ✅ Torossi, G. (s.f.). *El proceso unificado de desarrollo de software*.
 
----
-
 ### Referencias normativas, legales o de estándares
-
 1. ✅ ISO. (2011). *ISO/IEC 25010:2011, First Edition: Systems and software engineering. Systems and software Quality Requirements and Evaluation (SQuaRE). System and software quality models*. ANSI.
 2. ✅ ISO/IEC/IEEE (2018). *29148:2018(E). Systems and software engineering — Life cycle processes — Requirements engineering*.
 3. ✅ Project Management Institute (2018). *PMBOK: Project management body of knowledge* (6a ed.). Autor.
 
+---
 
 ## Recomendaciones
 
