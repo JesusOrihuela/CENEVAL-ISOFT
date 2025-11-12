@@ -121,7 +121,7 @@ Implica la **estimación y control de tiempos, recursos humanos y costos**, util
 14. ✅ Ruiz, E. (2001). *Lenguajes de programación: conceptos y paradigmas*. *Industrial Data*, 4(1), 71–74.
 15. ✅ Sánchez, J., & Martínez, C. R. (2013). *Estructura de datos*. Instituto Politécnico Nacional.
 16. ✅ Schildt, H. (2014). *Java: the complete reference* (7a ed.). McGraw-Hill.
-17. ❌ Serra, S. (2011). *Programación lógica*. Universidad Tecnológica Nacional.
+17. ✅ Serra, S. (2011). *Programación lógica*. Universidad Tecnológica Nacional.
 18. ✅ Silberschatz, A. (2007). *Fundamentos de bases de datos* (6a ed.). McGraw-Hill.
 19. ✅ Stackshare (2022). *C++ vs. JavaScript vs. PHP*.
 20. ✅ Ureña, C. (2012). *Lenguajes de programación*. Universidad de Granada.
