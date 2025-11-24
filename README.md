@@ -130,7 +130,7 @@ Implica la **estimación y control de tiempos, recursos humanos y costos**, util
 1. ✅ Arciniega, F. (2017). *Normas y estándares de calidad para el desarrollo de software*.
 2. ✅ Bass, L., Clements, P., & Kazman, R. (2013). *Software architecture in practice* (3a ed.). Addison-Wesley.
 3. ✅ Boar, B. (2001). *The art of strategic planning for information technology*. John Wiley & Sons.
-4. ❌ Campo, R., Campo, M., & Raya, V. R. (2013). *Gestión de proyectos*. RA-MA.
+4. ✅ Campo, R., Campo, M., & Raya, V. R. (2013). *Gestión de proyectos*. RA-MA.
 5. ✅ David, F. R. (2017). *Conceptos de administración estratégica* (5a ed.). Pearson Education.
 6. ✅ Díaz, J., & Robiolo, G. (2014). *Método de estimación de costos de un producto de software web*. 15th Argentine Symposium on Software Engineering (ASSE).
 7. ✅ Eeles, P. (2005). *Capturing architectural requirements*. IBM Rational Developer Works.
